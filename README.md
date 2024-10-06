@@ -12,3 +12,8 @@ E-Wallet App is an innovative E-Wallet application that allows users to make fas
 4. Kafka
 5. Postman
 
+## Features
+
+1. There are 5 Microservices - Common, Notification Service, User Service, Wallet Service, Transaction Service.
+2. I have used Mailtrap for sending mail to the user for compliting registration.
+3.  
