@@ -22,4 +22,4 @@ E-Wallet App is an innovative E-Wallet application that allows users to make fas
 
 ## High-level Design
 
-
+![E-Wallet App HLD](https://github.com/user-attachments/assets/aab80e8e-17d9-4817-9d0b-d09b2de87d56)
